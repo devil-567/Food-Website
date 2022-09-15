@@ -1,0 +1,75 @@
+.mainHead-product{
+    display: flex;
+    
+}
+
+.product1 img{
+    margin-left: 12px;
+    height: 200px;
+    width: 90%;
+    border-radius: 20px;
+}
+.product1 p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+.head-product33{
+    padding: 10px;
+    margin: 10px;
+    height: 350px;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px#000000;
+    background-color:#ffffff;
+
+}
+.head-product33 h10{
+     padding: 20px;
+}
+.product1 button{
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    height: 30px;
+    width: 60px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.footer-product{
+
+    display: flex;
+    margin-bottom: 10%;
+    justify-content: center;
+}
+.caption-product p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(79, 74, 74);
+    font-size: 12px;
+}
+
+.footer-product button{
+    margin-bottom: 10%;
+    margin-left:20px;
+}
+.footer-product span{
+    margin-top: 5px;
+    margin-bottom: 10%;
+
+    margin-right: 20px;
+}
+
+/* menu tittle */
+
+
+.tittle-menu-item p{
+    padding-left: 20px;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 40px;
+}

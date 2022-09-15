@@ -1,0 +1,38 @@
+.middle_image{
+    display: flex;
+   
+    justify-content: center;
+}
+.middle_image .firstImage{
+    height: 350px;
+    border-radius: 10px;
+    /* margin-left: 20px; */
+    
+}
+.secondImage{
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.middlewareText{
+    
+    text-align: center;
+    color: rgb(59, 58, 58);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.details_button{
+    text-align: center;
+    margin-top: 30px;
+   
+
+}
+.details_button button{
+    padding: 10px;
+    width: 82%;
+    color: white;
+    background-color: green;
+    border: none;
+    height: 50px;
+    font-size: 20px;
+    border-radius:10px ;
+}

@@ -1,0 +1,83 @@
+.about-tittle h1{
+    margin-left: 30px;
+}
+.container-child1{
+    display: flex;
+}
+.About-pizza1-right{
+    
+    width: 130%;
+    
+}
+.About-pizza1-left{
+    padding-left: 60px;
+    width: 100%;
+    
+    
+}
+.About-pizza1-left img{
+    margin-left: 50px;
+    height: 400px;
+    width: 400px;
+}
+.container-child1{
+    
+   justify-content: center;
+    padding:10px 100px;
+}
+.container-head{
+    justify-content: center;
+}
+
+
+/*  */
+.container-child2{
+    display: flex;
+}
+.About-pizza2-right{
+    
+    width: 130%;
+    
+}
+.About-pizza2-left{
+    padding-left: 60px;
+    width: 100%;
+    
+    
+}
+.About-pizza2-left img{
+    margin-right: 80px;
+    height: 400px;
+    width: 400px;
+}
+.container-child2{
+    
+   justify-content: center;
+    padding:10px 100px;
+}
+/*  */
+.container-child3{
+    display: flex;
+}
+.About-pizza3-right{
+    
+    width: 130%;
+    
+}
+.About-pizza3-left{
+    padding-left: 60px;
+    width: 100%;
+    
+    
+}
+.About-pizza3-left img{
+    margin-left: 50px;
+    height: 400px;
+    width: 400px;
+}
+.container-child3{
+    
+   justify-content: center;
+    padding:10px 100px;
+}
+

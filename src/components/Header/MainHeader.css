@@ -1,0 +1,6 @@
+.Mainheader{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    display: flex;
+}

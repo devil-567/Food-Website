@@ -1,0 +1,56 @@
+.backcover{
+    margin-top: 2px;
+    background-image:url("../image/zomato\ bacover.webp");
+    height: 400px;
+    width: 100%;  
+
+}
+.backcover .titleName{
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+    font-weight: bold;
+    padding-top: 150px;
+    font-family: 'Okra, Helvetica, sans-serif';
+}
+.discover{
+    color:aliceblue;
+    font-size: 40px;
+    text-align: center;
+}
+.box{
+    text-align: center;
+    margin-top: 20px;
+}
+#box1{
+    height: 20px;
+    padding: 10px;
+    width: 400px;
+    background-color: aliceblue;
+    border: none;
+   
+    border-radius: 5px 0 0 5px;
+    
+}
+.searchicon{
+    display: flex;
+    justify-content: center;
+}
+.searchicon i{
+    height: 40px;
+
+    border-radius: 0 5px 5px 0;
+    background-color: aliceblue;
+}
+#iconsearch{
+    height: 25px;
+    border: none;
+    margin-top: 6px;
+    cursor: pointer;
+    border-left: 2px solid #000000;
+    padding: 2px;
+    margin-right: 7px
+    
+    
+    
+}
